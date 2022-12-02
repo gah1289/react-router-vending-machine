@@ -1,0 +1,23 @@
+.NavBar {
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 500px;
+	position: absolute;
+	right: 10%;
+	top: 40%;
+	width: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+
+.NavBar a {
+	display: block;
+	color: rgba(255, 255, 255, 0.6);
+	text-decoration: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.NavBar a:hover {
+	color: rgba(255, 255, 255, 1);
+}
